@@ -1,0 +1,39 @@
+.outerDiv {
+    margin: 20px auto;
+    border-radius: 5px;
+    background-color: rgb(183, 102, 253);
+    padding: 10px;
+}
+
+.inputDiv {
+    color: white;
+    font-size: 22px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.input {
+    padding: 8px 20px;
+    border-radius: 5px;
+    font-size: 20px;
+    border: 1px solid black;
+    margin: auto 5px;
+    width: 25%;
+}
+
+.searchBtn {
+    margin: auto 5px;
+    padding: 8px;
+    font-size: 20px;
+    border-radius: 5px;
+    color: black;
+    width: fit-content;
+    align-items: center;
+    border: 1px solid black;
+    margin: 10px auto;
+}
+
+.searchBtn:hover {
+    color: rgb(172, 116, 250);
+} 

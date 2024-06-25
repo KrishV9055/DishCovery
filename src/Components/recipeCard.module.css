@@ -1,0 +1,21 @@
+.outerDiv {
+    border-radius: 5px;
+    margin: 10px auto;
+    width: 60%;
+    padding: 2% 6% 2% 7%;
+    background-color: #c586f4;
+}
+.title {
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: 1.8rem;
+    color: rgba(0, 30, 254, 0.607);
+    margin: 15px auto;
+}
+.img {
+    margin: 20px auto;
+}
+.instructions {
+    text-align: justify;
+    font-size: 1.5rem;
+    color: rgba(0, 30, 254, 0.607);
+}

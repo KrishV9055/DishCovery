@@ -1,0 +1,35 @@
+.outerDiv {
+    margin: 20px auto;
+    border-radius: 5px;
+    background-color: rgb(183, 102, 253);
+    padding: 10px;
+}
+
+.inputDiv {
+    color: white;
+    font-size: 22px;
+    display: flex;
+    justify-content: center;
+}
+
+.input {
+    padding: 2px 10px;
+    border-radius: 5px;
+    font-size: 20px;
+    border: 1px solid black;
+}
+
+.search {
+    margin: auto 5px;
+    padding: 5px;
+    padding-top: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    color: black;
+    width: 80px;
+    border: 1px solid black;
+}
+
+.search:hover {
+    color: rgb(172, 116, 250);
+} 

@@ -1,0 +1,21 @@
+.outerDiv {
+    justify-content: center;
+    display: flex;
+    margin: 10px;
+}
+.logoImg {
+    width: 8vw;
+    display: flex;
+}
+.head {
+    font-size: 34px;
+    color: #8254ff;
+    font-weight: 600;
+    text-align: center;
+    margin: 10px;
+    width: fit-content;
+}
+.subHead {
+    color: #4e1bdc;
+    font-size: 18px;
+}
