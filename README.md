@@ -1,8 +1,4 @@
-# React + Vite
+[![Netlify Status](https://api.netlify.com/api/v1/badges/43673556-6b85-4644-8c70-2aa082cf4563/deploy-status)](https://app.netlify.com/sites/dishcoverysite/deploys)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## "DishCovery" is deployed on Netlify.<br>
+## You can visit the project with this link: https://dishcoverysite.netlify.app/
